@@ -1,3 +1,14 @@
+# 21CSC203P - Advanced Programming Practice
+### Team Members Details
+  Name                         Reg No.                Year/Dept/Section
+ Himesh Kumar Kashyap       RA2511003050520            IInd/BTech(CSE)/A 
+ Nitish Kumar Singh         RA2511003050524            IInd/BTech(CSE)/A 
+ Eklavya Chaudhary          RA2511003050529            IInd/BTech(CSE)/A 
+ Yash Savant Ram            RA2511003050037            IInd/BTech(CSE)/A 
+
+
+
+
 # ExamForge - Requirements & Setup Guide
 
 ## System Requirements
